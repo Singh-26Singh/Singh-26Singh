@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Singh-26Singh/Deependra Singh.
+- 👀 I’m interested in mostly developing ML based solutions to real world problems.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on Machine learning projects/but i m comfortable with any tech stack.
+- 📫 How to reach me u can contact me throw my email:26singh.deependra@gmail.com
+- ok,I believe in code for cause.I want to be a part of a code meant to solve real world problem.Thats all for the time.
